@@ -1,0 +1,11 @@
+# Spring Boot
+target/
+*.log
+
+# Sensitive files
+application.properties
+.env
+
+# IDE
+.idea/
+*.iml
